@@ -25,6 +25,26 @@ class Modals extends Component {
                                             <th>Valor da compra</th>
                                         </tr>
                                     </thead>
+
+                                    <tbody>
+                                        <tr>
+                                            <td>Super Box Brasil</td>
+                                            <td>25/06/2018</td>
+                                            <td>R$ 150,00</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>Amazon AWS</td>
+                                            <td>19/03/2018</td>
+                                            <td>R$ 1850,00</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>Heroku</td>
+                                            <td>22/03/2018</td>
+                                            <td>R$ 780,00</td>
+                                        </tr>
+                                    </tbody>
                                 </table>
                             </div>
 
@@ -54,6 +74,14 @@ class Modals extends Component {
                                             <th>Valor da venda</th>
                                         </tr>
                                     </thead>
+
+                                    <tbody>
+                                        <tr>
+                                            <td>Colibri Colégio e Curso</td>
+                                            <td>19/04/2018</td>
+                                            <td>R$ 150,00</td>
+                                        </tr>
+                                    </tbody>
                                 </table>
                             </div>
 

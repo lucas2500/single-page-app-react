@@ -19,6 +19,22 @@ class TabelaCliente extends Component {
                             <th>Detalhes</th>
                         </tr>
                     </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Lucas Rafael de Oliveira Barbosa</td>
+                            <td>19</td>
+                            <td><button className="btn btn-primary">Ir</button></td>
+                        </tr>
+                        
+                        <tr>
+                            <td>2</td>
+                            <td>Manuella Alves de Oliveira</td>
+                            <td>21</td>
+                            <td><button className="btn btn-primary">Ir</button></td>
+                        </tr>
+                    </tbody>
                 </table>
 
             </div>
