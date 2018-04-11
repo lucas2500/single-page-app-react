@@ -17,7 +17,7 @@ class MenuSuperior extends Component {
 						<a className="nav-link" href="/" data-toggle="modal" data-target="#ContasPagar">Contas a pagar</a>
 						<a className="nav-link" href="/" data-toggle="modal" data-target="#ContasReceber">Contas a receber</a>
 						<a className="nav-link" href="/" data-toggle="modal" data-target="#CadDespesa">Cadastrar despesas</a>
-						<a className="nav-link" href="/">Cadastrar pagamentos a receber</a>
+						<a className="nav-link" href="/" data-toggle="modal" data-target="#CadRecebimento">Cadastrar pagamentos a receber</a>
 					</ul>
 				</div>
 

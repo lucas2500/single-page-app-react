@@ -8,7 +8,7 @@ class Formularios extends Component {
 
             <div>
 
-            {/* MODAL PARA CADASTRAR DESPESAS */}
+                {/* MODAL PARA CADASTRAR DESPESAS */}
 
                 <div class="modal fade" id="CadDespesa">
                     <div class="modal-dialog modal-lg">
@@ -49,7 +49,7 @@ class Formularios extends Component {
 
                 {/* MODAL PARA CADASTRAR RECEBIMENTOS */}
 
-                 <div class="modal fade" id="CadRecebimento">
+                <div class="modal fade" id="CadRecebimento">
                     <div class="modal-dialog modal-lg">
                         <div class="modal-content">
 
