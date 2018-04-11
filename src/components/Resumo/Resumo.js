@@ -98,6 +98,8 @@ class Resumo extends Component {
 
                 </div>
 
+                <hr />
+
             </div>
 
         )
